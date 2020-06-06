@@ -1,3 +1,0 @@
-[submodule "inject.dart"]
-	path = vendor/inject.dart
-	url = https://github.com/xmkevinchen/inject.dart.git
